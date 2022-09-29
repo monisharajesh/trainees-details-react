@@ -1,0 +1,40 @@
+{
+    
+"login":{
+    "isLogin" : true
+},
+
+    "trainees" : [
+        {
+            "image" : "image",
+            "name1" : "ZYX",
+            "mobile": 354804232,
+            "git": "xyz",
+            "batch" : "FED03",
+            "referred" : "Karthick",
+            "location": "PCM",
+            "placement": "Not Started"
+        },
+        {
+            "image" : "image",
+            "name1" : "ZYX",
+            "mobile": 354804232,
+            "git": "xyz",
+            "batch" : "FED03",
+            "referred" : "Karthick",
+            "location": "PCM",
+            "placement": "Not Started"
+        },
+        {
+            "image" : "image",
+            "name1" : "ZYX",
+            "mobile": 354804232,
+            "git": "xyz",
+            "batch" : "FED03",
+            "referred" : "Karthick",
+            "location": "PCM",
+            "placement": "Not Started"
+        }
+
+    ]
+}

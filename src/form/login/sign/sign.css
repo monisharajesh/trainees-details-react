@@ -1,0 +1,25 @@
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px solid brown;
+    padding: 15px;
+    width: 350px;
+    margin: 50px 400px;
+    background-color: crimson;
+    text-align: center;
+
+}
+.input{
+    width: 300px;
+    background-color: azure;
+    margin: 10px;
+}
+button{
+    border-radius: 10%;
+}
+p{
+    width: 100px;
+    text-align: center;
+    margin-left: 100px;
+}
